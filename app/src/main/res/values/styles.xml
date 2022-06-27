@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.Example.TextInputLayout.OutlinedBox" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+
+        <item name="boxStrokeColor">?attr/colorPrimary</item>
+        <item name="boxStrokeWidth">1dp</item>
+        <item name="boxCornerRadiusTopStart">32dp</item>
+        <item name="boxCornerRadiusTopEnd">32dp</item>
+        <item name="boxCornerRadiusBottomStart">32dp</item>
+        <item name="boxCornerRadiusBottomEnd">32dp</item>
+
+    </style>
+
+    <style name="TextAppearance.Example.Subtitle1"
+        parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="android:textSize">16sp</item>
+
+    </style>
+    <style name="TextAppearance.Example.Subtitle2"
+        parent="TextAppearance.MaterialComponents.Subtitle2">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="Widget.Example.TextView" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textAppearance">?attr/textAppearanceSubtitle1</item>
+        <item name="fontFamily">@font/vazir</item>
+    </style>
+    <style name="Widget.Example.TextView.Description" parent="Widget.Example.TextView">
+        <item name="android:textAppearance">?attr/textAppearanceSubtitle2</item>
+    </style>
+    
+    <style name="Widget.Example.TextView.ProductName" parent="Widget.Example.TextView">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Widget.Example.Button" parent="TextAppearance.AppCompat.Widget.Button">
+        <item name="fontFamily">@font/vazir</item>
+    </style>
+</resources>

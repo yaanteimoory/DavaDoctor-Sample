@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Example</string>
+
+    <string name="search_hint">جستحو کنید</string>
+    <string name="filter">فیلتر جستجو</string>
+    <string name="price">قیمت: %s تومان</string>
+    <string name="description">توضیحات: %s</string>
+    <string name="add_to_card">افزودن به سبد خرید</string>
+    <string name="store_label">فروشگاه</string>
+</resources>
