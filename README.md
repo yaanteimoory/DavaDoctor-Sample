@@ -1,7 +1,7 @@
 # DavaDoctor-Sample
 
 
-# Developed by Shayan Teimoory
+#Developed by Shayan Teimoory
 
 #Copyright (C) 2020 The Android Open Source Project
 #Mon Jun 27 07:58:25 UTC+3:30 2022
